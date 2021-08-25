@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Verdin-Python
 - 👀 I’m interested in ... Game Development
 - 🌱 I’m currently learning ... Python, Lua, C#. C++.
-- 💞️ I’m looking to collaborate on ... Want to learn more then I'll collaborate.
 - 📫 How to reach me ... Feel free to add me on Discord Verdin#2837
 
 <!---
